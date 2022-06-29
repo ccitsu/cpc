@@ -1,0 +1,46 @@
+﻿06/29/2022    10:56:03 AM    from Dr. Nayyar Ahmed Khan to Everyone:	Welcome! 
+06/29/2022    10:56:12 AM    from Dr. Nayyar Ahmed Khan to Everyone:	We shall begin in next 5 min!! 
+06/29/2022    11:08:49 AM    from Marwa to Everyone:	yes i downlod it 
+06/29/2022    11:09:01 AM    from Wareef yousef to Everyone:	yes , we downlod it 
+06/29/2022    11:10:00 AM    from Wareef yousef to Everyone:	done 
+06/29/2022    11:11:54 AM    from Tareq Homaid to Everyone:	I also dealt with C++ besides python :)
+06/29/2022    11:15:18 AM    from Tareq Homaid to Everyone:	it works on a VM with it's own assembly language
+06/29/2022    11:26:11 AM    from Dr. Nayyar Ahmed Khan to Everyone:	public class HelloDay {
+    public static void main(String args[])
+    {
+        
+    }
+}
+
+06/29/2022    11:28:19 AM    from Marwa to Everyone:	can i share my screen ?
+06/29/2022    11:28:33 AM    from Tareq Homaid to Everyone:	Working good here, thanks
+06/29/2022    11:28:52 AM    from Marwa to Everyone:	it said that there is a proplem with the installing
+06/29/2022    11:31:07 AM    from Dr. Nayyar Ahmed Khan to Everyone:	System.out.println("HelloDay!");
+06/29/2022    11:32:16 AM    from Marwa to Everyone:	where
+06/29/2022    11:32:56 AM    from Marwa to Everyone:	it is not working
+06/29/2022    11:34:09 AM    from Marwa to Everyone:	where is it ?
+06/29/2022    11:35:11 AM    from Dr. Nayyar Ahmed Khan to Everyone:	HelloDay.java
+06/29/2022    11:36:41 AM    from Marwa to Everyone:	i don't know what yu mean
+06/29/2022    11:39:00 AM    from Marwa to Everyone:	it's done
+06/29/2022    11:50:37 AM    from Dr. Nayyar Ahmed Khan to Everyone:	https://github.com/nayyarahmed/cpc
+06/29/2022    12:08:21 PM    from Abdulrahman to Everyone:	Thanks doctor
+06/29/2022    12:09:33 PM    from Abdulrahman to Everyone:	and sorry, I have to leave a session right now
+06/29/2022    12:31:05 PM    from Dr. Nayyar Ahmed Khan to Everyone:	Are you there people ??
+06/29/2022    12:31:17 PM    from Dr. Nayyar Ahmed Khan to Everyone:	Or can we stop now???
+06/29/2022    12:32:44 PM    from Wareef yousef to Everyone:	I think i'm the only one is here
+06/29/2022    12:33:31 PM    from Tareq Homaid to Everyone:	I'm ready Dr
+06/29/2022    12:33:59 PM    from Wareef yousef to Everyone:	yes we can complite now 
+06/29/2022    12:52:41 PM    from Wareef yousef to Everyone:	clear 
+06/29/2022    12:53:20 PM    from Dr. Nayyar Ahmed Khan to Everyone:	DataTypes ??
+06/29/2022    12:53:43 PM    from Tareq Homaid to Everyone:	string, array, int & float
+06/29/2022    12:53:44 PM    from Wareef yousef to Everyone:	int , double , string 
+06/29/2022    12:54:18 PM    from Dr. Nayyar Ahmed Khan to Everyone:	character
+06/29/2022    12:54:20 PM    from Dr. Nayyar Ahmed Khan to Everyone:	bool
+06/29/2022    12:54:21 PM    from Dr. Nayyar Ahmed Khan to Everyone:	long
+06/29/2022    12:54:25 PM    from Dr. Nayyar Ahmed Khan to Everyone:	short
+06/29/2022    12:54:26 PM    from Tareq Homaid to Everyone:	is there (long long)?
+06/29/2022    12:54:29 PM    from Tareq Homaid to Everyone:	like in C
+06/29/2022    13:11:15 PM    from Wareef yousef to Everyone:	thank you Dr , the class was so clear
+06/29/2022    13:13:45 PM    from Tareq Homaid to Everyone:	Yes we did learn well actually
+06/29/2022    13:14:31 PM    from Tareq Homaid to Everyone:	OK thanks a lot
+06/29/2022    13:14:56 PM    from Abdulrahman AL-Duaij. to Everyone:	thank you Dr.
