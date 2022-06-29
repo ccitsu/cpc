@@ -3,7 +3,5 @@ public class HelloWorld{
                     System.out.println("Hello Nayyar!");
                     System.out.println("Hello NayyarKhan!!");
                     System.out.println("Hello NayyarKhan!!!");
-
-
           }
 }

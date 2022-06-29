@@ -1,7 +1,13 @@
 package objectsNClasses;
+// Member Functions / Member Variables  -  Classes and Object!
+public class Tom{
+   System.out.println(puppyAge);
+}
 
-public class PuppyMethods {
-    int puppyAge;
+
+public class PuppyMethods 
+{
+    int puppyAge;       //Local Variable!! 
  
     public PuppyMethods(String name) {
        // This constructor has one parameter, name.
